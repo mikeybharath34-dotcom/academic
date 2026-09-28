@@ -1,0 +1,77 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+.academic {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.academic h1 {
+  margin: 25px;
+  color: black;
+}
+
+.student-card {
+  background-color: #4bbbd0;
+  padding: 20px;
+  margin-bottom: 25px;
+  border-radius: 15px;
+}
+
+.student-info {
+  background-color: #e3bb83;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.student-info h2 {
+  margin: 5px;
+}
+
+.student-info p {
+  margin: 8px;
+  font-size: 18px;
+}
+
+.subjects {
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.subjects h2 {
+  margin-top: 5px;
+}
+
+.subject {
+  background-color: #e3bb83;
+  padding: 10px;
+  margin: 8px;
+  border-radius: 8px;
+  font-size: 17px;
+}
+
+.status {
+  background-color: #e3bb83;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.status h2 {
+  margin-top: 5px;
+}
+
+.status p {
+  font-size: 18px;
+}
+
+.status h3 {
+  margin-top: 20px;
+}
